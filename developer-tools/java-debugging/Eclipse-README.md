@@ -9,7 +9,7 @@
 
 ### Getting Started
 
-On the command line clone the [registration-docker](https://github.com/docker/labs) repository
+On the command line clone the [registration-docker](https://github.com/StanciuMarian/labs) repository
 
 ```
 git clone https://github.com/docker/labs
