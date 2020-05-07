@@ -12,7 +12,7 @@
 On the command line clone the [registration-docker](https://github.com/StanciuMarian/labs) repository
 
 ```
-git clone https://github.com/docker/labs
+git clone https://github.com/StanciuMarian/labs
 cd labs/developer-tools/java-debugging
 ```
 
